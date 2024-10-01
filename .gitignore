@@ -1,0 +1,9 @@
+# Ignore crab directories
+crab_submission
+
+# Ignore root files
+*.root
+
+# Ignore pycache directories
+__pycache__
+
